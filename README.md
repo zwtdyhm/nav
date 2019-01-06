@@ -2,7 +2,7 @@
 
 
 ## 预览
-[在线预览](https://xjh22222228.github.io/nav/index.html)
+[在线预览](https://xjh22222228.github.io/nav/v1/index.html)
 
 
 
