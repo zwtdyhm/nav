@@ -6,7 +6,7 @@
 
 
 
-![preview](media/v1.png)
+![preview](https://raw.githubusercontent.com/xjh22222228/nav/master/media/v1.png)
 
 
 
