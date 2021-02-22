@@ -30,11 +30,11 @@
 - [Side 在线预览](https://zwtdyhm.github.io/nav/#/side)
 - [App 在线预览](https://zwtdyhm.github.io/nav/#/app)
 
-![Preview](https://raw.githubusercontent.com/zwtdyhm/public/gh-pages/nav/1.png)
-![Preview](https://raw.githubusercontent.com/zwtdyhm/public/gh-pages/nav/2.png)
-![Preview](https://raw.githubusercontent.com/zwtdyhm/public/gh-pages/nav/3.png)
-![Preview](https://raw.githubusercontent.com/zwtdyhm/public/gh-pages/nav/4.png)
-![Preview](https://raw.githubusercontent.com/zwtdyhm/public/gh-pages/nav/5.png)
+![Preview](https://raw.sevencdn.com/zwtdyhm/public/gh-pages/nav/1.png)
+![Preview](https://raw.sevencdn.com/zwtdyhm/public/gh-pages/nav/2.png)
+![Preview](https://raw.sevencdn.com/zwtdyhm/public/gh-pages/nav/3.png)
+![Preview](https://raw.sevencdn.com/zwtdyhm/public/gh-pages/nav/4.png)
+![Preview](https://raw.sevencdn.com/zwtdyhm/public/gh-pages/nav/5.png)
 
 
 
@@ -98,7 +98,7 @@ server {
 ## 书签导入
 支持从 Chrome 书签导入（WebKit内核应该都是支持的~），会自动检测满足三级分类的导航，其他一律跳过：
 
-![](https://raw.githubusercontent.com/zwtdyhm/public/gh-pages/nav/import.png)
+![](https://raw.sevencdn.com/zwtdyhm/public/gh-pages/nav/import.png)
 
 浏览器打开 [chrome://bookmarks/](chrome://bookmarks/) 导出书签得到 html 文件, 接着从导航网站后台导入即可。
 
