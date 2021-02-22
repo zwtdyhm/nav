@@ -1,19 +1,19 @@
 
 <p align="center">
-  <a href="https://nav3.cn/?g">
+  <a href="https://zwtdyhm.github.io/nav/?g">
     <img src="src/assets/logo.png" width="130" />
   </a>
   <br />
-  <b>发现导航</b>
+  <b>导航</b>
   <p align="center">一个纯静态、支持SEO、在线编辑的强大导航网站，希望您会喜欢</p>
   <p align="center">内置收录多达 800+ 优质网站， 助您工作、学习和生活</p>
   <p align="center">
-    <img src="https://img.shields.io/github/v/release/xjh22222228/nav" />
-    <a href="https://github.com/xjh22222228/nav/stargazers"><img src="https://img.shields.io/github/stars/xjh22222228/nav" alt="Stars"/></a>
+    <img src="https://img.shields.io/github/v/release/zwtdyhm/nav" />
+    <a href="https://github.com/zwtdyhm/nav/stargazers"><img src="https://img.shields.io/github/stars/zwtdyhm/nav" alt="Stars"/></a>
     <img alt="Angular" src="https://img.shields.io/static/v1.svg?label=&message=Angular11&style=flat-square&color=C82B38">
-    <img src="https://img.shields.io/github/license/xjh22222228/nav" />
-    <a href="https://hits.dwyl.com/xjh22222228/nav">
-      <img src="https://hits.dwyl.com/xjh22222228/nav.svg" />
+    <img src="https://img.shields.io/github/license/zwtdyhm/nav" />
+    <a href="https://hits.dwyl.com/zwtdyhm/nav">
+      <img src="https://hits.dwyl.com/zwtdyhm/nav.svg" />
     </a>
   </p>
 </p>
@@ -25,38 +25,23 @@
 ## 预览
 **主题**
 
-- [Sim 在线预览](https://nav3.cn/#/sim)
-- [Light 在线预览](https://nav3.cn/#/light)
-- [Side 在线预览](https://nav3.cn/#/side)
-- [App 在线预览](https://nav3.cn/#/app)
+- [Sim 在线预览](https://zwtdyhm.github.io/nav/#/sim)
+- [Light 在线预览](https://zwtdyhm.github.io/nav/#/light)
+- [Side 在线预览](https://zwtdyhm.github.io/nav/#/side)
+- [App 在线预览](https://zwtdyhm.github.io/nav/#/app)
 
-![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/1.png)
-![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/2.png)
-![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/3.png)
-![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/4.png)
-![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/5.png)
-
-
-
-## 在线体验
-提供了一个测试在线体验，与最新版本保持同步，请文明体验：
-
-Token: `a4f80afe5c320ada53459b7e64635f6936cede98`
-
-访问以下任意一个网址：
-- [https://nav-git-main.vacuum2021.vercel.app/](https://nav-git-main.vacuum2021.vercel.app/)
-- [https://nav.vacuum2021.vercel.app/](https://nav.vacuum2021.vercel.app/)
-- [https://nav-beta.vercel.app/](https://nav-beta.vercel.app/)
-- [https://vacuum2021.github.io/nav/](https://vacuum2021.github.io/nav/)
-
-
+![Preview](https://raw.githubusercontent.com/zwtdyhm/public/gh-pages/nav/1.png)
+![Preview](https://raw.githubusercontent.com/zwtdyhm/public/gh-pages/nav/2.png)
+![Preview](https://raw.githubusercontent.com/zwtdyhm/public/gh-pages/nav/3.png)
+![Preview](https://raw.githubusercontent.com/zwtdyhm/public/gh-pages/nav/4.png)
+![Preview](https://raw.githubusercontent.com/zwtdyhm/public/gh-pages/nav/5.png)
 
 
 
 
 
 ## 特性
-`发现导航` 的理念就是做一款无需依赖后端服务既简单又方便，没有繁杂的配置和数据库等配置概念, 做到开箱即用。
+`导航` 的理念就是做一款无需依赖后端服务既简单又方便，没有繁杂的配置和数据库等配置概念, 做到开箱即用。
 
 - 🍰 内置 `800+` 实用网站。
 - 🍰 支持 SEO。
@@ -104,7 +89,7 @@ server {
     server_name  www.nav3.cn nav3.cn;
 
     location / {
-        proxy_pass https://xjh22222228.github.io/nav/;
+        proxy_pass https://zwtdyhm.github.io/nav/;
     }
 }
 ```
@@ -113,7 +98,7 @@ server {
 ## 书签导入
 支持从 Chrome 书签导入（WebKit内核应该都是支持的~），会自动检测满足三级分类的导航，其他一律跳过：
 
-![](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/import.png)
+![](https://raw.githubusercontent.com/zwtdyhm/public/gh-pages/nav/import.png)
 
 浏览器打开 [chrome://bookmarks/](chrome://bookmarks/) 导出书签得到 html 文件, 接着从导航网站后台导入即可。
 
@@ -140,7 +125,7 @@ mac下是 `Command`，windows 下是 `Ctrl`
 - `ctrl+v` 查看信息
 - `ctrl+d` 开启或关闭暗黑模式
 
-如对快捷键有特殊要求请发起 [issues](https://github.com/xjh22222228/nav/issues)
+如对快捷键有特殊要求请发起 [issues](https://github.com/zwtdyhm/nav/issues)
 
 
 
@@ -149,7 +134,7 @@ mac下是 `Command`，windows 下是 `Ctrl`
 ## 开发构建
 ``` bash
 # 下载
-git clone --depth=1 https://github.com/xjh22222228/nav.git
+git clone --depth=1 https://github.com/zwtdyhm/nav.git
 
 # 安装依赖
 npm i
@@ -164,9 +149,9 @@ npm run build
 
 
 ## 贡献
-[点击这里](https://github.com/xjh22222228/nav/tree/master/data)
+[点击这里](https://github.com/zwtdyhm/nav/tree/master/data)
 
-Thank you for your [contribution](https://github.com/xjh22222228/nav/issues), men.
+Thank you for your [contribution](https://github.com/zwtdyhm/nav/issues), men.
 
 <a href="https://github.com/YutHelloWorld">
   <img src="https://avatars1.githubusercontent.com/u/20860159?s=460&v=4" width="30px" height="30px" />
@@ -187,7 +172,7 @@ Thank you for your [contribution](https://github.com/xjh22222228/nav/issues), me
 
 
 ## 建议
-如果有任何功能上的建议可通过 [issue](https://github.com/xjh22222228/nav/issues) 发起, Thank you.
+如果有任何功能上的建议可通过 [issue](https://github.com/zwtdyhm/nav/issues) 发起, Thank you.
 
 
 
@@ -196,7 +181,7 @@ Thank you for your [contribution](https://github.com/xjh22222228/nav/issues), me
 
 您可以请作者喝杯咖啡，继续战斗下去（请备注Github名字）~
 
-<img src="https://raw.sevencdn.com/xjh22222228/public/gh-pages/img/32.png" width="600">
+<img src="https://raw.sevencdn.com/zwtdyhm/public/gh-pages/img/32.png" width="600">
 
 感谢您的认可：
 | 姓名    | 支持金额              |
